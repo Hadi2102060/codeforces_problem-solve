@@ -11,7 +11,7 @@ int main(){
     long double diff=abs(b-a);
 
 
-    long double l= ceil(diff/10) ;
+    long int l= ceil(diff/10) ;
 
     cout<<l<<endl;
     
